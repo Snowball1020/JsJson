@@ -1,0 +1,17 @@
+{
+"SiteName" : "Weird Deals",
+"topFiveWeirdDeals" : [
+  {
+    "name" : "A cat butt tissue holder", 
+    "price" : 34.94,
+    "description" : "This seems like the nicest thing to be plucked from a cat's rear since, well, ever.", 
+    "features" : [
+      "Funny", 
+      "Fluffy", 
+      "Useful" 
+    ],
+    "image": "images/cat.jpg"
+  }
+  
+  ]
+}
